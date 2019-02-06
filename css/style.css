@@ -224,7 +224,7 @@ textarea.input {
   left: 0;
   right: 0;
   top: 0;
-  background-color: transparent;
+  background-color: white;
   border-bottom: 1px solid #DADADA30;
 }
 
@@ -273,7 +273,7 @@ textarea.input {
 }
 
 #header.transparent-navbar .main-nav li a {
-  color: #FFF;
+  color: black;
 }
 
 #header.fixed-navbar .main-nav li a {
